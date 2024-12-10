@@ -1,13 +1,13 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Bienvenidos a mi perfil:D <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-I am a pentester and red team with 1 year of experience in the area. I am currently 16 years old and I am a computer lover.
+Soy estudiante de Hacking Ético y me dedico a lo que es Red Team
 <br />
 <br />
-I love learning new techs and using new tools. I also love drinking Pepsi while coding.
+Me gusta aprender nuevas cosas 
 <br />
 <br />
-Feel free to try and cooperate on projects
+Sientete libre de poder usar y ayudar en  los proyectos :D
 <br />
 <br />
 
@@ -19,7 +19,6 @@ Feel free to try and cooperate on projects
 <br />
 <br />
 
-**Happy Coding!** 😊
 
 </div>
 
